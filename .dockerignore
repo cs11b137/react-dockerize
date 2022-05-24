@@ -1,0 +1,9 @@
+# 排除文件，减少镜像大小
+node_modules
+build
+.gitignore
+.dockerignore
+docker-compose.prod.yml
+docker-compose.yml
+Dockerfile
+Dockerfile.prod
